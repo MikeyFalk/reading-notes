@@ -12,7 +12,7 @@
 My name is Mike Falk. I live in Seattle with my wife, son, cat and dog. I love to cook, ski, ride bicyclces, play golf, read and listen to music - not all at the same time. My favorite movie is the Big Lebowski and my favorite novel is the Razor's Edge.  
 
 ##Reading Notes
-[Day 1]()
+[Day 1](Day1Notes.md)
 [Day 2]()
 [Day 3]()
 [Day 4]()
