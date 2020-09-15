@@ -8,6 +8,10 @@
 - [ ] Succeed by preparing to fail and fail again
 - [ ] Frustration is part of the process embrace it
 
+Winston Churchill said
+
+> Success is not final, failure is not fatal: it is the courage to continue that counts
+
 ## My Bio
 My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to cook, ski, ride bicyclces, play golf, read and listen to music - not all at the same time. I recently "retired" from Amazon after 13 years to learn how to code. After spending so much time working with tech teams in my product and program roles I decided to jump the fence to the other side. I wanted to learn how to build the tools and solutions instead of requesting them in requirements documents.  
 
