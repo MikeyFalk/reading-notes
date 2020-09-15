@@ -1,7 +1,7 @@
 
 # CF 102 Class Notes
 
-## Growth Mindset - intellegence isn't fixed, it is earned through practice 
+## Growth Mindset - intellegence isn't fixed, it is earned through practice and perseverance
 
 ### Keep yourself in a growth mindset:
 - Seek opportunities to get out of my comfort zone
