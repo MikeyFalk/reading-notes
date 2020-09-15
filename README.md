@@ -4,9 +4,9 @@
 ## Growth Mindset - intellegence isn't fixed, it is earned through practice and perseverance
 
 ### Keep yourself in a growth mindset:
-- Seek opportunities to get out of my comfort zone
-- Succeed by preparing to fail and fail again
-- Frustration is part of the process embrace it
+- [ ] Seek opportunities to get out of my comfort zone
+- [ ] Succeed by preparing to fail and fail again
+- [ ] Frustration is part of the process embrace it
 
 ## My Bio
 My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to cook, ski, ride bicyclces, play golf, read and listen to music - not all at the same time. I recently "retired" from Amazon after 13 years to learn how to code. After spending so much time working with tech teams in my product and program roles I decided to jump the fence to the other side. I wanted to learn how to build the tools and solutions instead of requesting them in requirements documents.  
@@ -19,4 +19,4 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 5]()
 
 
-Add Picture Here
+![Cascadia Flag](https://images.app.goo.gl/jtyWAdchrczbvyvB6)
