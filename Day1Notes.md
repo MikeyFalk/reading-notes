@@ -31,12 +31,9 @@
  2. IDE - text editor, a file manager, a compiler, and a debugger all in one.
  
  # Command Line
- 
-
 - Text based interface to the system
 - Runs Bash
 - Can have multiple CLs open doing different things
-
 - CL parts
 - Prompt
 - Command - typed by user
@@ -44,18 +41,13 @@
 - Options  - modify the behavior of the command start with a dash
 - Outputs - ;listed below the command
 - After command has been run prompt will show again
-
 - Shell 
 - Bash – bourne again shell
-
 - Echo command will tell you the current shell 
-
 - Shortcuts
 - Commands are stored in a history up and down arrows can be used to navigate
-
 - PWD – Print Working Directory
 - Important to be in the right location
-
 - ls – list 
 - Can add arguments to ls command 
 - ls [options] [location]
