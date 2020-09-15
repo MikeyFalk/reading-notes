@@ -1,5 +1,5 @@
 
-#CF 102 Class Notes
+CF 102 Class Notes
 
 ##Growth Mindset - intellegence isn't fixed, it is earned through practice 
 
