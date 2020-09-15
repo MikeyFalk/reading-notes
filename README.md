@@ -24,25 +24,3 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 
 
 ![Cascadia Flag](us}cas6.gif)
-
-*dragonfly* 
-
-[ Choose ]
-**dragonfly** 
-
-[ Choose ]
-* dragonfly 
-
-[ Choose ]
-> dragonfly 
-
-[ Choose ]
-# dragonfly 
-
-[ Choose ]
-& dragonfly 
-
-[ Choose ]
-`dragonfly` 
-
-[ Choose ]
