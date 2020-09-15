@@ -9,7 +9,7 @@
 - Frustration is part of the process embrace it
 
 ##My Bio
-My name is Mike Falk. I live in Seattle with my wife, son, cat and dog. I love to cook, ski, ride bicyclces, play golf, read and listen to music - not all at the same time. My favorite movie is the Big Lebowski and my favorite novel is the Razor's Edge. I enrolled in code fellows because I want to learn how to build the future.  
+My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to cook, ski, ride bicyclces, play golf, read and listen to music - not all at the same time. I recently "retired" from Amazon after 13 years to learn how to code. After spending so much time working with tech teams in my product and program roles I decided to jump the fence to the other side. I wanted to learn how to build the tools and solutions instead of requesting them in requirements documents.  
 
 ##Reading Notes
 [Day 1](Day1Notes.md)
