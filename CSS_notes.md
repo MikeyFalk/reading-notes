@@ -43,5 +43,6 @@
 
 - Opacity available in CSS3 can beused to play with opacity of a background
 
+- **Pro tip** When using CSS3, Opacity and HSL make sure to use a RGB or hex value for code first in case the user is using an older browser that doesn't read the newer code. use the older values first and newer code second 
 
  [<-- Back](README.md)
