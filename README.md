@@ -11,7 +11,9 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 1: Github, Markdown, Text Editors & Command Line](Day1Notes.md)
 - [Day 2: Revisions](revisions.md)
 - [Day 2: HTML & Website Structure](how_to_html.md)
-- [Day 3]()
+- [Day 3: CSS Structure & Color](CSS_notes.md)
+- [Day 3: Dynamic Web Pages with JS]()
+- [Day 3: Computer Architecture & Logic]()
 - [Day 4]()
 - [Day 5]()
 
