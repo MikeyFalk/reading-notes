@@ -64,7 +64,7 @@
 - Can add arguments to ls command 
 - ls [options] [location]
 
-## Everything is a file
+### Everything is a file
 
 - Linux doesn’t use file extensions
 - Can use command file to find the extension

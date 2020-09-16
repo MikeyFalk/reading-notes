@@ -14,10 +14,13 @@
 * use ls to see what is in the current directory
 
 ## How to do an ACP
-    * commands 
-        - git add file name or git add '*' to add all changes
-        - git status
-        - git commit -m "type comments here"
-            -use this everytime to add breadcrumbs
-        - git push origin master to push changes to git hub
 
+#### commands 
+
+- git add file name or git add '*' to add all changes
+- git status
+- git commit -m "type comments here"
+- use this everytime to add breadcrumbs
+- git push origin master to push changes to git hub
+
+[<-- Back](README.md)
