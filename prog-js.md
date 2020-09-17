@@ -9,24 +9,24 @@
 
 ## Expressions & Operators
 
-1. An expression evaluates into (results in) a single value. 
+1. An expression evaluates into (results in) a single value.
 
    - Broadly speaking there are two types of expressions
         1. Expressions that just assign a value to a variable
-            `var color = blue
+            `var color = blue`
         2. Expressions that use two or more values to return a single value
-            `var area = 3 * 2 
+            `var area = 3 * 2` 
             or
-            `var greeting = 'hello' + userName
+            `var greeting = 'hello' + userName`
 
 2. Operators: Expressions rely on operators to create a single value from one or more values
 
     - assignment operators: assign a value to a variable
-        `color = blue;
+        `color = blue;`
     - Arthimetic operators: perform basic math
-        `area = 3 * 2;
+        `area = 3 * 2;`
     - String operators: combine two strings
-        `greeting = 'Hi' + 'Molly;
+        `greeting = 'Hi' + 'Molly;`
     - comparison operators: compare two values and return true or false (Boolean)
     - logical operators: combine expressions and return true or false
 
@@ -40,13 +40,13 @@
 - return value the name for what is returned after a function is run
 
 Declare a Function
-`function sayHello() {
-    `document.write('Hello!);
-`}
+`function sayHello() {`
+    `document.write('Hello!);`
+`}`
 
 Calling a Function 
-`// code before function
-`sayHello();
-`// code after function
+`// code before function`
+`sayHello();`
+`// code after function`
 
  [<-- Back](README.md)
