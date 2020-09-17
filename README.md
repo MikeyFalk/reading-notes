@@ -14,8 +14,8 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 3: CSS Structure & Color](CSS_notes.md)
 - [Day 3: Dynamic Web Pages with JS](js_intro.md)
 - [Day 3: Computer Architecture & Logic](architecture.md)
-- [Day 4]()
-- [Day 5]()
+- [Day 4: Programing with JS](prog-js.md)
+- [Day 4: Operators and Loops]()
 
 
 ![Cascadia Flag](us}cas6.gif)
