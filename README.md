@@ -19,6 +19,9 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 4: Programing with JS](prog-js.md)
 - [Day 4: Operators & Loops](operators-loops.md)
 
+## Code 201 Pre-work Reading
+- [Summaries] (class-01.md)
+
 ## Code 201 Reading Notes
 - [Day 1: ]()
 - [Day 2: ]()
