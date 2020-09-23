@@ -20,7 +20,7 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 4: Operators & Loops](operators-loops.md)
 
 ## Code 201 Pre-work Reading
-- [Summaries] (class-01.md)
+- [Summaries](class-01.md)
 
 ## Code 201 Reading Notes
 - [Day 1: ]()
