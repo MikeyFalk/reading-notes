@@ -40,11 +40,13 @@
 - return value the name for what is returned after a function is run
 
 Declare a Function
+
 `function sayHello() {`
     `document.write('Hello!);`
 `}`
 
 Calling a Function 
+
 `// code before function`
 `sayHello();`
 `// code after function`
