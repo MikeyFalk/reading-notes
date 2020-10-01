@@ -30,8 +30,8 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 
 - [Day 1:](class-01.md)
 - [Day 2:](class-02.md)
-- [Day 3: ](class-03.md)
-- [Day 4: ]()
+- [Day 3:](class-03.md)
+- [Day 4:](class-04.md)
 - [Day 5: ]()
 - [Day 6: ]()
 - [Day 7: ]()
