@@ -77,6 +77,4 @@ function needs to be called to run
 5. job interview readiness: many interviews include paired programming
 6. Work Enviroment Readiness: most companies use pairing when onboarding
 
-
-
  [<-- Back](README.md)
