@@ -5,7 +5,7 @@
 ### Chapter 5: "Images" (pp. 94-125)
 
 * HTML is used to add a picture to a webpage
-    * CSS can also be used
+* CSS can also be used
 * images have several formats
 * you will need to format an image to the right size
 * you will need to optimize an image to make it load faster
@@ -40,6 +40,7 @@
 * Best not to crop images instead add extra space to fit -like borders
 
 ### Chapter 11: "Color" (pp.246-263)
+
 * How to spcify colors
 * color terminology and contrast
 * background color
@@ -51,10 +52,10 @@
 
 `color` = tesxt color
 `background-color` = background color for box
-* need to specify since some browsers don't default to white users can set it.
+* need to specify since some browsers don't default to white users can set it
 
 * CSS3 has an opacity available
-* important to think about contrast for readability 
+* important to think about contrast for readability
 
 * Hue Saturation Lightness and Alpha
 * HSL and HSLA available in CSS3
@@ -72,6 +73,6 @@
 * `text-transform` - uppercase and lowercase
 * `text-decoration` - underline and strike
 * `line-height` - leading
-*`letter-spacing` - `word-spacing` - self explanitory
+* `letter-spacing` - `word-spacing` - self explanitory
 
 [<-- Back](README.md)

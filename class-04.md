@@ -26,7 +26,6 @@ links move user from one page to another
 * CSS frameworks -rules for common tasks
 * you can have multiple CSS files in one page
 
-
 ## JS
 
 ### Chapter 3 (1st part): "Functions, Methods, and Objects" (pp.86- 99 Only)
