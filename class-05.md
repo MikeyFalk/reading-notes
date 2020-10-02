@@ -61,4 +61,17 @@
 
 ### Chapter 12: "Text" (pp. 264-299)
 
+* Split into 2 groups
+    1. affect font and its appearance
+    2. affect on text no matter what the font you are using
+* `font-family` specify typeface users need this type face installed on their computer, you can also specify a list of fonts for alternates
+* `font-size` - size of font pixels or  precentages of default size (16px)
+* `font-face` - used even if a user doesn't have it installed
+* `font-weight` - bold
+* `font-style` - italic
+* `text-transform` - uppercase and lowercase
+* `text-decoration` - underline and strike
+* `line-height` - leading
+*`letter-spacing` - `word-spacing` - self explanitory
+
 [<-- Back](README.md)
