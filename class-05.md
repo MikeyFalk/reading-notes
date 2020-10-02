@@ -27,6 +27,7 @@
 * HTML5 doesn't use align this old code
 
 #### always: 
+
 * save image in the right format
 * save images in the right size
 * measure images in pixels
@@ -62,7 +63,7 @@
 
 ### Chapter 12: "Text" (pp. 264-299)
 
-* Split into 2 groups
+Split into 2 groups
     1. affect font and its appearance
     2. affect on text no matter what the font you are using
 * `font-family` specify typeface users need this type face installed on their computer, you can also specify a list of fonts for alternates
