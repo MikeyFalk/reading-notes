@@ -34,7 +34,7 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 4:](class-04.md)
 - [Day 5:](class-05.md)
 - [Day 6:](class-06.md)
-- [Day 7: ]()
+- [Day 7:](class-07.md)
 - [Day 8: ]()
 - [Day 9: ]()
 - [Day 10:]()
