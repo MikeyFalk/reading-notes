@@ -5,11 +5,11 @@
 
 ## Javascript book. Ch.10 "Error Handling & Debugging"
 
-### Ways to find errors - 
+### Ways to find errors -
 
 Order of Execution - make sure you understand how scripts are processed. Its not always from top to bottom.
 
-###Execution Contexts - 
+###Execution Contexts -
 
 Every statement is in 1 of 3 execution contexts
 
