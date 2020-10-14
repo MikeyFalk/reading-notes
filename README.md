@@ -40,7 +40,7 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 10:](class-10.md)
 - [Day 11:](class-11.md)
 - [Day 12: Cart.js, Canvas](clas-12.md)
-- [Day 13: ]()
+- [Day 13: Local Storage](class-13.md)
 - [Day 14: ]()
 - [Day 15: ]()
 
