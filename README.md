@@ -44,7 +44,8 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 
 ## Code 301 - Intermediate Software Development
 
-- [Day 1:]()
+- [Day 1:](301-class-01.md)
+- [Day 2:](301-class-02.md)
 
 ## Code 401 - Advanced Software Development
 
