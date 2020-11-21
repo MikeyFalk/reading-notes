@@ -59,6 +59,7 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 13:](301-class-13.md)
 - [Day 14:](301-class-14.md)
 - [Day 15:](301-class-15.md)
+- [Day 16:](301-class-16.md)
 
 ## Code 401 - Advanced Software Development
 
