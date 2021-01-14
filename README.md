@@ -65,6 +65,7 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 01:](401-class-01.md)
 - [Day 02:](401-class-02.md)
 - [Day 03:](401-class-03.md)
+- [Day 04:](401-class-04.md)
 
 
 ![Cascadia Flag](us}cas6.gif)
