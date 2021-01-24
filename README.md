@@ -61,7 +61,7 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 15:](301-class-15.md)
 - [Day 16:](301-class-16.md)
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development C# dotnet
 - [Day 01:](401-class-01.md)
 - [Day 02:](401-class-02.md)
 - [Day 03:](401-class-03.md)
@@ -71,6 +71,8 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 07:](401-class-07.md)
 - [Day 08:](401-class-08.md)
 - [Day 09:](401-class-09.md)
+- [Day 10:](401-class-10.md)
+- [Day 11:](401-class-11.md)
 
 
 ![Cascadia Flag](us}cas6.gif)
