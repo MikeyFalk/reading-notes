@@ -73,6 +73,17 @@ My name is Mike. I live in Seattle with my wife, son, cat and dog. I love to coo
 - [Day 09:](401-class-09.md)
 - [Day 10:](401-class-10.md)
 - [Day 11:](401-class-11.md)
+- [Day 12:](401-class-12.md)
+- [Day 13:](401-class-13.md)
+- [Day 14:](401-class-14.md)
+- [Day 15:](401-class-15.md)
+- [Day 16:](401-class-16.md)
+- [Day 17:](401-class-17.md)
+- [Day 18:](401-class-18.md)
+- [Day 19:](401-class-19.md)
+- [Day 20:](401-class-20.md)
+- [Day 21:](401-class-21.md)
+- 
 
 
 ![Cascadia Flag](us}cas6.gif)
